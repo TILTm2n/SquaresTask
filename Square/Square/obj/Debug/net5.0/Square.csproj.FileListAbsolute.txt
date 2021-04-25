@@ -1,0 +1,16 @@
+D:\PROG\C#\Square\Square\Square\bin\Debug\net5.0\Square.exe
+D:\PROG\C#\Square\Square\Square\bin\Debug\net5.0\Square.deps.json
+D:\PROG\C#\Square\Square\Square\bin\Debug\net5.0\Square.runtimeconfig.json
+D:\PROG\C#\Square\Square\Square\bin\Debug\net5.0\Square.runtimeconfig.dev.json
+D:\PROG\C#\Square\Square\Square\bin\Debug\net5.0\Square.dll
+D:\PROG\C#\Square\Square\Square\bin\Debug\net5.0\ref\Square.dll
+D:\PROG\C#\Square\Square\Square\bin\Debug\net5.0\Square.pdb
+D:\PROG\C#\Square\Square\Square\obj\Debug\net5.0\Square.csprojAssemblyReference.cache
+D:\PROG\C#\Square\Square\Square\obj\Debug\net5.0\Square.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROG\C#\Square\Square\Square\obj\Debug\net5.0\Square.AssemblyInfoInputs.cache
+D:\PROG\C#\Square\Square\Square\obj\Debug\net5.0\Square.AssemblyInfo.cs
+D:\PROG\C#\Square\Square\Square\obj\Debug\net5.0\Square.csproj.CoreCompileInputs.cache
+D:\PROG\C#\Square\Square\Square\obj\Debug\net5.0\Square.dll
+D:\PROG\C#\Square\Square\Square\obj\Debug\net5.0\ref\Square.dll
+D:\PROG\C#\Square\Square\Square\obj\Debug\net5.0\Square.pdb
+D:\PROG\C#\Square\Square\Square\obj\Debug\net5.0\Square.genruntimeconfig.cache
