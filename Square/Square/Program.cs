@@ -28,6 +28,7 @@ namespace Square
             Console.ReadKey();
         }
 
+        //функции, которые используются в блоке Main
         public static double SquareOfCircle(double radius)
         {
             return Math.PI * Math.Pow(radius, 2);
